@@ -1,6 +1,3 @@
-body { background-color: #000000; }
-h1 {font-family: arial, verdana;
-color: #ffffff;} 
-p {font-family: arial, verdana; 
-color: #ffffff;} 
-.center { text-align: center; } 
+body 
+{ background: #000000; 
+}
